@@ -1,0 +1,41 @@
+
+
+h1{ color:brown;
+    font-size: 2em;
+    margin-bottom: 3em;
+    text-align: center;
+    text-decoration: underline
+    }
+    h2{
+        color: #990000;
+        text-align: center;
+        text-decoration:underline;
+    }
+    body{
+        background-color: hotpink
+        border: #990000;border: dotted;
+    }
+   
+
+
+    
+    table{
+        margin: .4em;
+        width: 300px;
+    }
+    th{
+        padding: .3em;
+    }
+    td{
+        background-color:rgb(184, 205, 243);
+        border:1px solid #990000;
+        padding-left: 5em;
+        padding-right: 5em;
+    }
+    #trHeader {
+        color: #990000;
+        text-decoration:underline;
+    }
+    .centreCell {
+        text-align: center;
+    }
